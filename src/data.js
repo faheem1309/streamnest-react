@@ -3,28 +3,33 @@ const videos = [
     id: 1,
     title: "React JS Full Course for Beginners",
     channel: "freeCodeCamp.org",
-    views: "3.2M views",
+    views: "3.5M views",
     time: "1 year ago",
-    thumbnail: "https://i.ytimg.com/vi/bMknfKXIFA8/hqdefault.jpg",
     videoId: "bMknfKXIFA8"
   },
   {
     id: 2,
     title: "JavaScript Crash Course",
     channel: "Traversy Media",
-    views: "2.1M views",
+    views: "2.3M views",
     time: "2 years ago",
-    thumbnail: "https://i.ytimg.com/vi/hdI2bqOjy3c/hqdefault.jpg",
     videoId: "hdI2bqOjy3c"
   },
   {
     id: 3,
-    title: "CSS Flexbox Tutorial",
+    title: "CSS Flexbox Complete Guide",
     channel: "Kevin Powell",
-    views: "1.4M views",
+    views: "1.6M views",
     time: "3 years ago",
-    thumbnail: "https://i.ytimg.com/vi/JJSoEo8JSnc/hqdefault.jpg",
     videoId: "JJSoEo8JSnc"
+  },
+  {
+    id: 4,
+    title: "Git & GitHub Full Course",
+    channel: "freeCodeCamp.org",
+    views: "1.9M views",
+    time: "2 years ago",
+    videoId: "RGOj5yH7evk"
   }
 ];
 

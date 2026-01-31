@@ -1,0 +1,14 @@
+.header {
+  position: sticky;
+  top: 0;
+  background: white;
+  border-bottom: 1px solid #ddd;
+  padding: 14px 24px;
+  z-index: 100;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  color: #ff0000;
+}
